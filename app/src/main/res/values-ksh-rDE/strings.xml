@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">finalapp</string>
+    <string name="search">Suche</string>
+    <string name="locate">Lokalisieren</string>
+    <string name="enter_a_city">eine Stadt betreten</string>
+    <string name="my_location">mein Standort</string>
+</resources>

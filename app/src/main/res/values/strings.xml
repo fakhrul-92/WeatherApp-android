@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">finalapp</string>
+    <string name="my_location">my location</string>
+    <string name="enter_a_city">Enter a city</string>
+    <string name="locate">Locate</string>
+    <string name="search">search</string>
+</resources>

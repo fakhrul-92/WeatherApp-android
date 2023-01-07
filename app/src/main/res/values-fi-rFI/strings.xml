@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">finalapp</string>
+    <string name="search">Hae</string>
+    <string name="locate">paikantaa</string>
+    <string name="enter_a_city">astu kaupunkiin</string>
+    <string name="my_location">minun sijaintini</string>
+</resources>
